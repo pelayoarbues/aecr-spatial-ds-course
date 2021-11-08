@@ -1,1 +1,1 @@
-# aecr-spatial_ds_course
+# aecr-spatial-ds-course
